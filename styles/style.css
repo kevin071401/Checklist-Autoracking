@@ -1,0 +1,22 @@
+#body {
+    background-image: url(https://kevin071401.github.io/Web_CV/image/background2.jpg);
+    background-size: 700px;
+    background-repeat: repeat;
+}
+
+#menu {
+    background-color: white;
+    display: block;
+    margin-left: 185px;
+    margin-right: 185px;
+    margin-bottom: 0em;
+    padding: 0.5em 1em;
+    border: 4px solid black;
+    border-radius: 4em;
+}
+
+#navbar {
+    background-color: blue;
+    display: block;
+}
+
